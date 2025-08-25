@@ -32,8 +32,8 @@ Docker, Kubernetes, Jenkins, Git, Grafana, AWS
 
 ### 📊 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starlord-code&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starlord-code&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha-vardhan-dangetie&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-vardhan-dangeti&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
