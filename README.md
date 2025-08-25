@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Dangeti</h1>
-<h3 align="center">Software Developer | Ruby on Rails | Python | Cloud & Backend Enthusiast</h3>
+<h3 align="center">Software Developer | Ruby on Rails | Python | AI & Agents Development Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/starlord-code">
