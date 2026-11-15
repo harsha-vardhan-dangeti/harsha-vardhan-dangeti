@@ -1,59 +1,64 @@
-<h1 align="center">Hi 👋, I'm Harsha Vardhan Dangeti</h1>
-<h3 align="center">Software Developer | Ruby on Rails | Python | AI & Agents Development Enthusiast</h3>
+<h1 align="center">Harsha Vardhan Dangeti</h1>
 
 <p align="center">
-  <a href="https://github.com/starlord-code">
-    <img src="https://komarev.com/ghpvc/?username=starlord-code&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <b>Backend Engineer building AI systems</b><br/>
+  Ruby on Rails · Python · FastAPI · RAG · LangGraph agents
 </p>
 
----
-
-### 👨‍💻 About Me
-- 💼 **Software Developer with 3+ years of experience**, currently working at **Qualcomm** as an **IT Software Developer**.  
-- 💡 Skilled in **Ruby on Rails, Python, RESTful APIs, and Microservices** with a strong background in **Docker, Redis, RabbitMQ, and Jenkins**.  
-- 🚀 Experienced in building **scalable applications**, workflow automation, and system optimizations.  
-- 🌱 Currently exploring **React, FastAPI, and GraphQL** to expand my full-stack expertise.  
-- 🔍 Open to **new opportunities** where I can contribute to impactful projects.  
-
----
-
-### 🔧 Tech Stack
-**Languages & Frameworks:**  
-Ruby on Rails, Python, JavaScript, React.js, Node.js, HTML, CSS, GraphQL  
-
-**Databases & Messaging:**  
-MySQL, Redis, RabbitMQ, Kafka  
-
-**DevOps & Tools:**  
-Docker, Kubernetes, Jenkins, Git, Grafana, AWS  
-
----
-
-### 📊 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-vardhan-dangeti&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-vardhan-dangeti&theme=radical" alt="GitHub Streak" />
+  <a href="https://hvd.works">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/">LinkedIn</a> ·
+  <a href="mailto:harshavardhan.dangeti2001@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.io/u/starlord-code" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/harsha_vardhan_1223/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/haraha_vardhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-</p>
+I'm a software developer at **Qualcomm** (Hyderabad) with 4+ years of experience shipping backend systems: APIs, background jobs, caching, and legacy modernization. For the last couple of years my work has moved toward the AI layer on top of that backend: RAG pipelines, agentic workflows with LangGraph and LangChain, and vector database integrations.
 
-📫 Reach me at: **harshavardhan.dangeti2001@gmail.com**
+I like the part of AI engineering that is mostly engineering: retrieval that returns the right thing, agents that fail safely, and services that hold up in production.
+
+## What I'm looking for
+
+**Backend + AI Engineer · AI Engineer · Forward Deployed Engineer**
+
+Roles where I own a backend service end to end and build the LLM features that sit on it. Open to Hyderabad (hybrid) or remote within India.
+
+## What I do at Qualcomm
+
+- **AI systems:** built RAG pipelines and agentic workflows (LangChain, LangGraph) backed by vector stores (ChromaDB, pgvector) and a graph database (Neo4j).
+- **Compliance automation:** automated a recurring export-compliance reporting process, removing roughly two weeks of manual effort per cycle across global teams.
+- **Legacy modernization:** led Ruby and Rails upgrades of long-running internal applications, including a data-center migration with zero data loss and a 25% performance gain on one service.
+- **APIs and performance:** built REST APIs that cut manual onboarding work by 50%, and used Redis and fragment caching to reduce update times by 25%.
+- **Sharing what I learn:** delivered internal tech talks on agentic AI, vector databases, and AWS SageMaker.
+
+## Selected projects
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **Qvision2Code AI** | Turns UI design mockups and screenshots into frontend code using computer vision and LLMs. | Python, LLMs | [Code](https://github.com/harsha-vardhan-dangeti/Qvision2Code-AI) |
+| **Job Hunt HQ** | Job-search command center: a tracker that takes roles from wishlist through offer. | React, JavaScript | [Code](https://github.com/harsha-vardhan-dangeti/job-hunt-hq) · [Live](https://job-hunt-hq-pi.vercel.app) |
+| **Tally** | Personal expense tracking web app. | TypeScript | [Code](https://github.com/harsha-vardhan-dangeti/tally-web) · [Live](https://tally-web-kappa.vercel.app) |
+| **Turtle Runners** | Onboarding site for a running club I'm part of. | TypeScript | [Code](https://github.com/harsha-vardhan-dangeti/turtle-runners) · [Live](https://turtle-runners.vercel.app) |
+| **hvd.works** | My portfolio, with an animated agentic RAG architecture walkthrough. | Vite, Vercel | [Code](https://github.com/harsha-vardhan-dangeti/portfolio) · [Live](https://hvd.works) |
+
+## Stack
+
+| Area | Tools |
+| --- | --- |
+| **Backend** | Ruby on Rails, Python, FastAPI, REST APIs, Sidekiq, RabbitMQ |
+| **AI** | LangChain, LangGraph, RAG, ChromaDB, pgvector, Neo4j, Streamlit |
+| **Data** | MySQL, PostgreSQL, Redis |
+| **Frontend** | React, TypeScript, JavaScript |
+| **Tooling** | Docker, Jenkins, Git, RSpec, Vercel |
+
+## Background
+
+- **Qualcomm**, IT Software Developer (Jul 2022 to present), Hyderabad
+- **Hewlett Packard Enterprise**, Technical Solution Consultant Intern (Jan to Jul 2022), Pune
+- **B.E. Computer Science and Engineering**, Amrita Vishwa Vidyapeetham, Coimbatore (2022)
 
 ---
+
+<p align="center">
+  The fastest way to reach me is <a href="mailto:harshavardhan.dangeti2001@gmail.com">email</a> or <a href="https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/">LinkedIn</a>.
+</p>
