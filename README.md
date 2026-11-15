@@ -35,7 +35,6 @@ Roles where I own a backend service end to end and build the LLM features that s
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| **Qvision2Code AI** | Turns UI design mockups and screenshots into frontend code using computer vision and LLMs. | Python, LLMs | [Code](https://github.com/harsha-vardhan-dangeti/Qvision2Code-AI) |
 | **Job Hunt HQ** | Job-search command center: a tracker that takes roles from wishlist through offer. | React, JavaScript | [Code](https://github.com/harsha-vardhan-dangeti/job-hunt-hq) · [Live](https://job-hunt-hq-pi.vercel.app) |
 | **Tally** | Personal expense tracking web app. | TypeScript | [Code](https://github.com/harsha-vardhan-dangeti/tally-web) · [Live](https://tally-web-kappa.vercel.app) |
 | **Turtle Runners** | Onboarding site for a running club I'm part of. | TypeScript | [Code](https://github.com/harsha-vardhan-dangeti/turtle-runners) · [Live](https://turtle-runners.vercel.app) |
