@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://hvd.works">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/harshavardhandangeti/">LinkedIn</a> ·
   <a href="mailto:harshavardhan.dangeti2001@gmail.com">Email</a>
 </p>
 
@@ -39,7 +39,7 @@ Roles where I own a backend service end to end and build the LLM features that s
 | **Job Hunt HQ** | Job-search command center: a tracker that takes roles from wishlist through offer. | React, JavaScript | [Code](https://github.com/harsha-vardhan-dangeti/job-hunt-hq) · [Live](https://job-hunt-hq-pi.vercel.app) |
 | **Tally** | Personal expense tracking web app. | TypeScript | [Code](https://github.com/harsha-vardhan-dangeti/tally-web) · [Live](https://tally-web-kappa.vercel.app) |
 | **Turtle Runners** | Onboarding site for a running club I'm part of. | TypeScript | [Code](https://github.com/harsha-vardhan-dangeti/turtle-runners) · [Live](https://turtle-runners.vercel.app) |
-| **hvd.works** | My portfolio, with an animated agentic RAG architecture walkthrough. | Vite, Vercel | [Code](https://github.com/harsha-vardhan-dangeti/portfolio) · [Live](https://hvd.works) |
+| **hvd.works** | My portfolio: React SPA with serverless GitHub and Credly APIs on Vercel, 160+ tests. | Vite, Vercel | [Code](https://github.com/harsha-vardhan-dangeti/portfolio) · [Live](https://hvd.works) |
 
 ## Stack
 
@@ -60,5 +60,5 @@ Roles where I own a backend service end to end and build the LLM features that s
 ---
 
 <p align="center">
-  The fastest way to reach me is <a href="mailto:harshavardhan.dangeti2001@gmail.com">email</a> or <a href="https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/">LinkedIn</a>.
+  The fastest way to reach me is <a href="mailto:harshavardhan.dangeti2001@gmail.com">email</a> or <a href="https://www.linkedin.com/in/harshavardhandangeti/">LinkedIn</a>.
 </p>
